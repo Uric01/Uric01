@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uric01
+- 👋 Hi, I’m Zweli
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning AI and Machine Learning tools
 - 💞️ I’m looking to collaborate on some AI and Machine Learning projects
