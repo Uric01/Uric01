@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uric01
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning web dev tools
+- 🌱 I’m currently learning AI tools
 - 💞️ I’m looking to collaborate on some web dev projects
 - 📫 How to reach me? uric01@live.com
 
