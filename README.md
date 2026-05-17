@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning AI and Machine Learning tools
 - 💞️ I’m looking to collaborate on some AI and Machine Learning projects
-- 📫 How to reach me? uric01@live.com
+- 📫 How to reach me? zweli.mashego01@gmail.com
 
 <!---
 Uric01/Uric01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
